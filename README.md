@@ -1,1 +1,1 @@
-Downloadable files for LTS Design products. Includes legacy files for OTA updates and earlier versions of the Control app. Respooler related downloads moved to a new domain (respooler.lts-design.com).
+Downloadable files for LTS Design products. Includes legacy files for OTA updates and earlier versions of the LTS Control app. Respooler related downloads moved to a new domain (respooler.lts-design.com).
